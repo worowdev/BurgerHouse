@@ -18,10 +18,6 @@ export const metadata: Metadata = {
   title: "Burger House | Nugegoda & Moratuwa, Sri Lanka",
   description:
     "Fresh crispy chicken burgers, loaded fries, authentic kottu, and wok-fried rice. Order online via Uber Eats or visit us in Nugegoda & Moratuwa.",
-  icons: {
-    icon: "/logo.jpg",
-    apple: "/logo.jpg",
-  },
   openGraph: {
     title: "Burger House | Nugegoda & Moratuwa",
     description:
