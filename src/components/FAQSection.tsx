@@ -32,11 +32,11 @@ export default function FAQSection() {
   const [openId, setOpenId] = useState<number | null>(0);
 
   return (
-    <section id="faq" className="py-16 bg-[#F5F1E9] border-t border-[#EAE5DC]">
+    <section id="faq" className="doodle-bg py-16 bg-[#F5F1E9]">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Header */}
-        <div className="text-center mb-10">
+        <div className="heading-card mx-auto text-center mb-10">
           <span className="text-xs font-bold uppercase tracking-wider text-[#D97706] block mb-1">
             Questions & Answers
           </span>

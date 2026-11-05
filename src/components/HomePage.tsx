@@ -115,7 +115,7 @@ export default function HomePage() {
       {/* ═══════════════════════════════════════════════════════
           SECTION 2: MID-PAGE PROMO BANNER (matching Design Reference)
       ═══════════════════════════════════════════════════════ */}
-      <section className="py-12 lg:py-16 bg-[#FBF9F5]">
+      <section className="doodle-bg py-12 lg:py-16 bg-[#FBF9F5]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           <div className="bg-[#BA1C22] text-white rounded-3xl p-6 sm:p-10 lg:p-12 shadow-xl overflow-hidden relative">
@@ -168,11 +168,11 @@ export default function HomePage() {
       {/* ═══════════════════════════════════════════════════════
           SECTION 3: THREE COLOR CARDS (matching Design Reference)
       ═══════════════════════════════════════════════════════ */}
-      <section className="py-12 lg:py-16 bg-[#FBF9F5] border-t border-[#EAE5DC]">
+      <section className="doodle-bg py-12 lg:py-16 bg-[#FBF9F5]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           {/* Section Header */}
-          <div className="text-center mb-12">
+          <div className="heading-card mx-auto text-center mb-12">
             <span className="text-sm font-extrabold uppercase tracking-wider text-[#BA1C22] block mb-1">
               Popular Choices
             </span>
@@ -291,11 +291,11 @@ export default function HomePage() {
       {/* ═══════════════════════════════════════════════════════
           SECTION 4: FOOD STRIP (Loaded Fries, Kottu, Rice, Shakes)
       ═══════════════════════════════════════════════════════ */}
-      <section className="py-12 lg:py-16 bg-[#F5F1E9] border-t border-[#EAE5DC]">
+      <section className="doodle-bg py-12 lg:py-16 bg-[#F5F1E9]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           <div className="flex flex-col sm:flex-row items-start sm:items-end justify-between gap-4 mb-8">
-            <div>
+            <div className="heading-card">
               <span className="text-xs font-bold uppercase tracking-wider text-[#D97706] block mb-1">
                 More Delicious Bites
               </span>
@@ -305,7 +305,7 @@ export default function HomePage() {
             </div>
             <Link
               href="/menu"
-              className="text-sm font-bold text-[#BA1C22] hover:underline flex items-center gap-1"
+              className="glow-card border bg-white rounded-full px-4 py-2 text-sm font-bold text-[#BA1C22] hover:underline flex items-center gap-1"
             >
               <span>View full menu</span>
               <ChevronRight className="w-4 h-4" />
@@ -327,10 +327,10 @@ export default function HomePage() {
       {/* ═══════════════════════════════════════════════════════
           LOCATIONS & HOURS SECTION
       ═══════════════════════════════════════════════════════ */}
-      <section className="py-16 bg-[#FBF9F5] border-t border-[#EAE5DC]">
+      <section className="doodle-bg py-16 bg-[#FBF9F5]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
-          <div className="text-center mb-10">
+          <div className="heading-card mx-auto text-center mb-10">
             <span className="text-xs font-bold uppercase tracking-wider text-[#D97706] block mb-1">
               Visit Us in Person
             </span>

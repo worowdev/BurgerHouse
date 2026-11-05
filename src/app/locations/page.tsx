@@ -11,12 +11,12 @@ export default function LocationsPage() {
   const { selectedBranch, setBranch } = useBranch();
 
   return (
-    <div className="min-h-screen bg-[#FBF9F5]">
+    <div className="doodle-bg doodle-bg--full min-h-screen bg-[#FBF9F5]">
       
       {/* Header */}
-      <div className="bg-[#F5F1E9] border-b border-[#EAE5DC] py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="inline-flex items-center gap-2 bg-white border border-[#E0D8CB] px-3 py-1 rounded-full mb-3 shadow-2xs">
+      <div className="px-4 sm:px-6 lg:px-8 pt-8 sm:pt-10">
+        <div className="max-w-7xl mx-auto bg-white border border-[#EAE5DC] rounded-3xl p-6 sm:p-10 glow-card">
+          <div className="inline-flex items-center gap-2 bg-[#FBF9F5] border border-[#E0D8CB] px-3 py-1 rounded-full mb-3 shadow-2xs">
             <MapPin className="w-3.5 h-3.5 text-[#D97706]" />
             <span className="text-xs font-semibold text-[#1F1D1A]">Our Locations</span>
           </div>

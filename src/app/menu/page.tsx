@@ -51,12 +51,12 @@ export default function MenuPage() {
   const activeCategoryData = CATEGORIES.find((c) => c.id === activeCategory) || CATEGORIES[0];
 
   return (
-    <div className="min-h-screen bg-[#FBF9F5]">
+    <div className="doodle-bg doodle-bg--full min-h-screen bg-[#FBF9F5]">
       
       {/* Header */}
-      <div className="bg-[#F5F1E9] border-b border-[#EAE5DC] py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="inline-flex items-center gap-2 bg-white border border-[#E0D8CB] px-3 py-1 rounded-full mb-3 shadow-2xs">
+      <div className="px-4 sm:px-6 lg:px-8 pt-8 sm:pt-10">
+        <div className="max-w-7xl mx-auto bg-white border border-[#EAE5DC] rounded-3xl p-6 sm:p-10 glow-card">
+          <div className="inline-flex items-center gap-2 bg-[#FBF9F5] border border-[#E0D8CB] px-3 py-1 rounded-full mb-3 shadow-2xs">
             <Utensils className="w-3.5 h-3.5 text-[#D97706]" />
             <span className="text-xs font-semibold text-[#1F1D1A]">Our Complete Menu</span>
           </div>
@@ -160,12 +160,14 @@ export default function MenuPage() {
 
         {/* Add-ons, extra portions & meal upgrades */}
         <section className="mt-16 border-t border-[#EAE5DC] pt-10" aria-labelledby="extras-heading">
-          <h2 id="extras-heading" className="text-2xl sm:text-3xl font-extrabold text-[#1F1D1A] tracking-tight">
-            Add-ons &amp; Meal Upgrades
-          </h2>
-          <p className="text-sm text-[#57534E] mt-1">
-            Customise any order. Rice and kottu: Normal is for 2 persons, Full is for 3 persons. No service charge.
-          </p>
+          <div className="heading-card">
+            <h2 id="extras-heading" className="text-2xl sm:text-3xl font-extrabold text-[#1F1D1A] tracking-tight">
+              Add-ons &amp; Meal Upgrades
+            </h2>
+            <p className="text-sm text-[#57534E] mt-1">
+              Customise any order. Rice and kottu: Normal is for 2 persons, Full is for 3 persons. No service charge.
+            </p>
+          </div>
 
           <div className="mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {MEAL_UPGRADES.map((m) => (

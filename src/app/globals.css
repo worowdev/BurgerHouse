@@ -99,3 +99,45 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .cheese-drip { animation: none; }
 }
+
+/* Food doodle pattern for light sections (public/doodle-pattern.svg).
+   Drawn on a pseudo-element so it can fade out at the section edges
+   instead of cutting doodles in half where two sections meet. */
+.doodle-bg {
+  position: relative;
+  isolation: isolate;
+}
+.doodle-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: url('/doodle-pattern.svg');
+  background-size: 420px 420px;
+  background-position: center top;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 110px, #000 calc(100% - 110px), transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 110px, #000 calc(100% - 110px), transparent);
+}
+/* Whole-page pattern: sits between the nav and the dark footer, so no edge fade. */
+.doodle-bg--full::before {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+/* Yellow edge with a soft outer glow for white cards. */
+.glow-card {
+  border-color: #FFC72C !important;
+  box-shadow: 0 0 0 1px rgba(255, 199, 44, 0.35), 0 0 16px rgba(255, 199, 44, 0.35), 0 4px 18px rgba(31, 29, 26, 0.05);
+}
+
+/* Compact white card that sits behind a section heading only. */
+.heading-card {
+  width: fit-content;
+  max-width: 100%;
+  background: #fff;
+  border: 1px solid #FFC72C;
+  border-radius: 1.25rem;
+  padding: 1rem 1.75rem 1.1rem;
+  box-shadow: 0 0 0 1px rgba(255, 199, 44, 0.35), 0 0 16px rgba(255, 199, 44, 0.35), 0 4px 18px rgba(31, 29, 26, 0.05);
+}

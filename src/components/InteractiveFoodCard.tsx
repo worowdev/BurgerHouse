@@ -21,7 +21,7 @@ export default function InteractiveFoodCard({ item }: InteractiveFoodCardProps) 
   const optionCount = item.variants?.length ?? 0;
 
   return (
-    <div className="bg-white border border-[#EAE5DC] rounded-2xl overflow-hidden hover:shadow-md transition-all duration-200 flex flex-col justify-between h-full group">
+    <div className="glow-card bg-white border border-[#EAE5DC] rounded-2xl overflow-hidden transition-all duration-200 flex flex-col justify-between h-full group">
       
       {/* Food Photo Container */}
       <div className="relative w-full h-48 bg-[#F5F2EB] overflow-hidden cursor-pointer" onClick={() => openItemModal(item)}>

@@ -22,9 +22,9 @@ function Stars({ rating }: { rating: number }) {
 
 export default function ReviewsSection() {
   return (
-    <section id="reviews" className="py-16 bg-[#FBF9F5]">
+    <section id="reviews" className="doodle-bg py-16 bg-[#FBF9F5]">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-10">
+        <div className="heading-card mx-auto text-center mb-10">
           <span className="text-xs font-bold uppercase tracking-wider text-[#D97706] block mb-1">
             Google Reviews
           </span>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="420" viewBox="0 0 420 420">
+  <defs>
+    <!-- Burger -->
+    <g id="burger">
+      <path d="M-28 -3 C-28 -24 28 -24 28 -3 Z"/>
+      <path d="M-12 -14 l3 -1 M0 -17 l3 0 M11 -13 l3 1 M-5 -9 l3 0 M6 -8 l3 0" stroke-width="2"/>
+      <path d="M-31 2 q5 -5 10 0 t10 0 t10 0 t10 0 t10 0 t10 0"/>
+      <rect x="-29" y="6" width="58" height="9" rx="4.5"/>
+      <path d="M-28 19 h56 q0 10 -10 10 h-36 q-10 0 -10 -10 Z"/>
+    </g>
+    <!-- Drumstick -->
+    <g id="drumstick">
+      <path d="M-8 12 C-26 0 -18 -30 4 -28 C28 -26 32 -2 16 9 C10 13 4 16 -2 19"/>
+      <path d="M-8 12 L-17 21 M-2 19 L-11 28"/>
+      <path d="M-17 21 c-6 -3 -11 3 -6 7 c-3 6 4 10 7 5 c4 2 9 -3 5 -7"/>
+      <path d="M0 -18 c3 -2 6 -1 8 1 M10 -4 c2 -2 5 -2 7 0 M-8 -6 c2 -2 4 -2 6 0" stroke-width="2"/>
+    </g>
+    <!-- Crispy chicken piece -->
+    <g id="crispy">
+      <path d="M-20 -6 c0 -12 14 -18 22 -11 c9 -5 20 3 16 12 c7 6 1 18 -8 16 c-4 8 -18 8 -22 0 c-10 -1 -13 -12 -8 -17 Z"/>
+      <path d="M-8 -6 l2 1 M4 -10 l2 0 M10 2 l2 1 M-2 6 l2 0 M-12 4 l1 2" stroke-width="2"/>
+    </g>
+    <!-- Submarine -->
+    <g id="sub">
+      <path d="M-36 -2 C-36 -16 36 -16 36 -2"/>
+      <path d="M-20 -12 l5 4 M-6 -14 l5 4 M8 -14 l5 4 M21 -12 l5 4" stroke-width="2"/>
+      <path d="M-38 2 q4 -4 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t4 0"/>
+      <path d="M-36 7 h72 q0 9 -9 9 h-54 q-9 0 -9 -9 Z"/>
+    </g>
+    <!-- Rice bowl -->
+    <g id="bowl">
+      <path d="M-28 0 h56 q-4 24 -28 24 q-24 0 -28 -24 Z"/>
+      <path d="M-23 0 q3 -17 23 -17 q20 0 23 17"/>
+      <path d="M-10 -8 l3 -1 M0 -12 l3 0 M9 -7 l3 1 M-3 -4 l3 0" stroke-width="2"/>
+      <path d="M-10 26 h20"/>
+      <path d="M8 -30 L30 -6 M15 -33 L35 -10"/>
+    </g>
+    <!-- Fries -->
+    <g id="fries">
+      <path d="M-11 -4 L-14 -26 M-4 -4 L-5 -30 M3 -4 L4 -28 M10 -4 L13 -24 M-1 -6 L1 -22"/>
+      <path d="M-17 -4 h34 l-4 28 h-26 Z"/>
+      <path d="M-9 6 q9 6 18 0" stroke-width="2"/>
+    </g>
+    <!-- Chilli -->
+    <g id="chilli">
+      <path d="M-20 10 C-6 12 10 2 16 -12 C19 -6 12 12 -20 14 Z"/>
+      <path d="M16 -12 q1 -6 7 -7"/>
+    </g>
+    <!-- Lemon wedge -->
+    <g id="lemon">
+      <path d="M-14 0 a14 14 0 0 0 28 0 Z"/>
+      <path d="M-9 0 a9 9 0 0 0 18 0 M0 0 v9 M0 0 l-6 6 M0 0 l6 6" stroke-width="2"/>
+    </g>
+  </defs>
+
+  <g fill="none" stroke="#D49A1E" stroke-opacity="0.5" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <use href="#burger" xlink:href="#burger" transform="translate(70 70) rotate(-12)"/>
+    <use href="#drumstick" xlink:href="#drumstick" transform="translate(205 58) rotate(28)"/>
+    <use href="#sub" xlink:href="#sub" transform="translate(340 82) rotate(14)"/>
+    <use href="#chilli" xlink:href="#chilli" transform="translate(140 140) rotate(-20)"/>
+    <use href="#bowl" xlink:href="#bowl" transform="translate(62 210) rotate(8)"/>
+    <use href="#crispy" xlink:href="#crispy" transform="translate(205 205) rotate(-18)"/>
+    <use href="#fries" xlink:href="#fries" transform="translate(345 215) rotate(16)"/>
+    <use href="#lemon" xlink:href="#lemon" transform="translate(285 150) rotate(-30)"/>
+    <use href="#sub" xlink:href="#sub" transform="translate(85 345) rotate(-22)"/>
+    <use href="#burger" xlink:href="#burger" transform="translate(220 340) rotate(10)"/>
+    <use href="#drumstick" xlink:href="#drumstick" transform="translate(350 345) rotate(-40)"/>
+    <use href="#chilli" xlink:href="#chilli" transform="translate(290 280) rotate(150)"/>
+    <use href="#lemon" xlink:href="#lemon" transform="translate(145 275) rotate(25)"/>
+
+    <!-- scattered sesame / crumbs -->
+    <g stroke-width="2.2">
+      <path d="M128 40 l4 1 M262 112 l3 -2 M30 140 l4 0 M392 150 l2 3 M176 100 l3 1 M110 250 l3 -2 M260 245 l4 1 M392 280 l-2 3 M30 285 l4 1 M150 390 l3 -1 M290 395 l4 0 M396 30 l-3 2 M20 22 l3 2 M250 18 l4 0"/>
+    </g>
+    <g stroke-width="2">
+      <circle cx="160" cy="20" r="3"/>
+      <circle cx="300" cy="35" r="2.5"/>
+      <circle cx="18" cy="100" r="2.5"/>
+      <circle cx="250" cy="155" r="3"/>
+      <circle cx="400" cy="250" r="2.5"/>
+      <circle cx="120" cy="300" r="2.5"/>
+      <circle cx="300" cy="322" r="3"/>
+      <circle cx="20" cy="398" r="2.5"/>
+    </g>
+  </g>
+</svg>
