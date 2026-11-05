@@ -1,0 +1,422 @@
+[
+  {
+    "id": "egg-burger",
+    "name": "Egg Burger",
+    "prompt": "A single burger in a glossy toasted sesame brioche bun with egg, lettuce, onion, tomato, cheesy mayonnaise and tomato ketchup, sauces dripping slightly. The only filling is one fried egg with the salad and sauces: no meat patty, no cheese. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "veggie-burger",
+    "name": "Veggie Burger",
+    "prompt": "A single burger in a glossy toasted sesame brioche bun with veggie patty, lettuce, onion, tomato, cheesy mayonnaise and tomato ketchup, sauces dripping slightly. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-burger",
+    "name": "Beef Burger",
+    "prompt": "A single burger in a glossy toasted sesame brioche bun with beef patty, lettuce, onion, tomato, cheesy mayonnaise and tomato ketchup, sauces dripping slightly. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-chicken",
+    "name": "Burger House Special (Chicken)",
+    "prompt": "A tall double-stacked burger in a glossy toasted sesame brioche bun with 2 chicken patties, a slice of melted cheddar, a fried egg, crisp lettuce, red onion, tomato slices, cheesy mayonnaise and tomato ketchup dripping down the sides. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-beef",
+    "name": "Burger House Special (Beef)",
+    "prompt": "A tall double-stacked burger in a glossy toasted sesame brioche bun with 2 beef patties, a slice of melted cheddar, a fried egg, crisp lettuce, red onion, tomato slices, cheesy mayonnaise and tomato ketchup dripping down the sides. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-crispy-chicken",
+    "name": "Burger House Special (Crispy Chicken)",
+    "prompt": "A tall double-stacked burger in a glossy toasted sesame brioche bun with 2 crispy chicken fillets, a slice of melted cheddar, a fried egg, crisp lettuce, red onion, tomato slices, cheesy mayonnaise and tomato ketchup dripping down the sides. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mayonnaise-sub-9",
+    "name": "Mayonnaise Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else; no meat, no vegetables other than those listed. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "omelette-sub-9",
+    "name": "Omelette Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with omelette, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else; no meat, no vegetables other than those listed. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "umbalakada-sub-9",
+    "name": "Umbalakada Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with umbalakada, onion sauce, cheesy mayonnaise and tomato ketchup (umbalakada is Sri Lankan dried Maldive fish sambol), served on parchment paper. The filling contains only the listed ingredients and nothing else; no meat, no vegetables other than those listed. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "veggie-sub-9",
+    "name": "Veggie Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with carrot, cabbage, lettuce, onion, tomato, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else; no meat, no vegetables other than those listed. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "sausage-sub-9",
+    "name": "Sausage Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 2 sausages, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-sub-9",
+    "name": "Chicken Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with chicken, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "fried-chicken-sub-9",
+    "name": "Fried Chicken Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with fried chicken, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "crispy-chicken-sub-9",
+    "name": "Crispy Chicken Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with crispy chicken, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "drumstick-sub-9",
+    "name": "Drumstick Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 2 drumsticks, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "nugget-sub-9",
+    "name": "Nugget Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 5 nuggets, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "fish-finger-sub-9",
+    "name": "Fish Finger Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 2 fish fingers, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "hotdog-sub-9",
+    "name": "Hotdog Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with hotdog, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mini-kiev-sub-9",
+    "name": "Mini Kiev Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 3 mini kievs / cheese balls, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "kochi-bite-sub-9",
+    "name": "Kochi Bite Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with 3 kochi bites / spicy cheese balls, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-sub-9",
+    "name": "Beef Sub 9\"",
+    "prompt": "A 9-inch submarine sandwich in a soft golden bread roll split along the top, filled with beef, onion sauce, cheesy mayonnaise and tomato ketchup, served on parchment paper. The filling contains only the listed ingredients and nothing else. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "hotdog-sub-12",
+    "name": "Hotdog Submarine 12\"",
+    "prompt": "A long 12-inch footlong submarine sandwich in a soft golden bread roll, generously filled with sliced grilled hotdog sausages, onion sauce, lettuce, cheesy mayonnaise and tomato ketchup, served on parchment paper. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-sub-12",
+    "name": "Chicken Submarine 12\"",
+    "prompt": "A long 12-inch footlong submarine sandwich in a soft golden bread roll, generously filled with seasoned shredded chicken, onion sauce, lettuce, cheesy mayonnaise and tomato ketchup, served on parchment paper. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "spicy-chicken-sub-12",
+    "name": "Spicy Chicken Submarine 12\"",
+    "prompt": "A long 12-inch footlong submarine sandwich in a soft golden bread roll, generously filled with spicy red devilled chicken pieces, onion sauce, lettuce, cheesy mayonnaise and tomato ketchup, served on parchment paper. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "crispy-chicken-sub-12",
+    "name": "Crispy Chicken Submarine 12\"",
+    "prompt": "A long 12-inch footlong submarine sandwich in a soft golden bread roll, generously filled with crispy crumb-fried chicken pieces, onion sauce, lettuce, cheesy mayonnaise and tomato ketchup, served on parchment paper. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-sub-12",
+    "name": "Beef Submarine 12\"",
+    "prompt": "A long 12-inch footlong submarine sandwich in a soft golden bread roll, generously filled with seasoned shredded beef, onion sauce, lettuce, cheesy mayonnaise and tomato ketchup, served on parchment paper. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "crispy-chicken-rice",
+    "name": "Crispy Chicken Rice",
+    "prompt": "A generous plate of Sri Lankan style basmati fried rice with spring onion and egg with crispy chicken, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-rice",
+    "name": "Beef Rice",
+    "prompt": "A generous plate of Sri Lankan style basmati fried rice with spring onion and egg with beef, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "seafood-rice",
+    "name": "Seafood Rice",
+    "prompt": "A generous plate of Sri Lankan style basmati fried rice with spring onion and egg with prawns, cuttlefish and fish, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mixed-rice",
+    "name": "Mixed Rice",
+    "prompt": "A generous plate of Sri Lankan style basmati fried rice with spring onion and egg with chicken, prawns, hotdog and fish, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "nasigoreng",
+    "name": "Nasigoreng",
+    "prompt": "A generous plate of Sri Lankan style nasi goreng, darker sweet-soy basmati fried rice with chicken, prawns, hotdog and a sunny-side-up bullseye fried egg on top, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mongolian-rice",
+    "name": "Mongolian Rice",
+    "prompt": "A generous plate of Mongolian-style basmati fried rice with a dark glossy sauce with chicken, prawns and hotdog, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-rice",
+    "name": "Burger House Special Rice",
+    "prompt": "A generous plate of Sri Lankan style basmati fried rice with spring onion and egg with chicken, fish, prawns, cuttlefish, hotdog and a sunny-side-up bullseye fried egg on top, a side of colourful vegetable chopsuey and a small bowl of red chilli paste. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-kottu",
+    "name": "Chicken Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-kottu",
+    "name": "Beef Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with beef, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "seafood-kottu",
+    "name": "Seafood Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with prawns, cuttlefish and fish, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mixed-kottu",
+    "name": "Mixed Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, fish, prawns and hotdog, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-kottu",
+    "name": "Burger House Special Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, fish, prawns, cuttlefish and hotdog, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-cheese-kottu",
+    "name": "Chicken Cheese Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-cheese-kottu",
+    "name": "Beef Cheese Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with beef, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "seafood-cheese-kottu",
+    "name": "Seafood Cheese Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with prawns, cuttlefish and fish, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mixed-cheese-kottu",
+    "name": "Mixed Cheese Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, fish, prawns and hotdog, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-cheese-kottu",
+    "name": "Burger House Special Cheese Kottu",
+    "prompt": "A generous plate of Sri Lankan kottu roti: finely chopped godhamba roti stir-fried on a griddle with egg, leeks, carrot and cabbage, with chicken, fish, prawns, cuttlefish and hotdog, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-dolphin",
+    "name": "Chicken Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-dolphin",
+    "name": "Beef Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with beef, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "seafood-dolphin",
+    "name": "Seafood Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with prawns, cuttlefish and fish, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mixed-dolphin",
+    "name": "Mixed Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, fish, prawns and hotdog, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-dolphin",
+    "name": "Burger House Special Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, fish, prawns, cuttlefish and hotdog, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chicken-cheese-dolphin",
+    "name": "Chicken Cheese Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-cheese-dolphin",
+    "name": "Beef Cheese Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with beef, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "seafood-cheese-dolphin",
+    "name": "Seafood Cheese Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with prawns, cuttlefish and fish, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mixed-cheese-dolphin",
+    "name": "Mixed Cheese Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, fish, prawns and hotdog, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "burger-house-special-cheese-dolphin",
+    "name": "Burger House Special Cheese Dolphin",
+    "prompt": "A generous plate of Sri Lankan dolphin kottu: torn pieces of flaky paratha roti wok-tossed in a creamy, milky curry gravy with egg, leeks, carrot and cabbage, with chicken, fish, prawns, cuttlefish and hotdog, smothered in a thick layer of melted cheese sauce, a small bowl of curry gravy on the side. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "veggie-pasta",
+    "name": "Veggie Pasta",
+    "prompt": "A bowl of penne pasta in a creamy sauce tossed with mixed vegetables (carrot, capsicum and leeks), garnished with herbs. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "egg-pasta",
+    "name": "Egg Pasta",
+    "prompt": "A bowl of penne pasta in a creamy sauce tossed with scrambled egg, garnished with herbs. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "sausage-pasta",
+    "name": "Sausage Pasta",
+    "prompt": "A bowl of penne pasta in a creamy sauce tossed with sausage, garnished with herbs. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "hotdog-pasta",
+    "name": "Hotdog Pasta",
+    "prompt": "A bowl of penne pasta in a creamy sauce tossed with sliced hotdog sausage, garnished with herbs. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "beef-pasta",
+    "name": "Beef Pasta",
+    "prompt": "A bowl of penne pasta in a creamy sauce tossed with beef, garnished with herbs. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "french-fries",
+    "name": "French Fries",
+    "prompt": "A basket of hot, crispy golden french fries with a light sprinkle of salt. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "crispy-strips",
+    "name": "Crispy Strips",
+    "prompt": "A single crispy crumb-fried chicken strip in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "crispy-thigh",
+    "name": "Crispy Thigh",
+    "prompt": "A single crispy golden fried chicken thigh in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "drumsticks-portion",
+    "name": "Drumsticks Portion",
+    "prompt": "A sharing portion of crispy fried chicken drumsticks in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "fish-fingers-portion",
+    "name": "Fish Fingers Portion",
+    "prompt": "A sharing portion of golden crumbed fish fingers in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mini-kievs-cheese-balls-portion",
+    "name": "Mini Kievs / Cheese Balls Portion",
+    "prompt": "A sharing portion of golden crumbed mini chicken kievs and cheese balls, one broken open showing melted cheese in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "kochi-bites-spicy-cheese-balls-portion",
+    "name": "Kochi Bites / Spicy Cheese Balls Portion",
+    "prompt": "A sharing portion of golden crumbed spicy cheese balls flecked with red chilli, one broken open showing melted cheese in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "nuggets-portion",
+    "name": "Nuggets Portion",
+    "prompt": "A sharing portion of golden chicken nuggets in a paper-lined basket with a small dip of mayonnaise. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "vanilla-milkshake",
+    "name": "Vanilla Milkshake",
+    "prompt": "A tall glass of thick vanilla milkshake with whipped cream. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "chocolate-milkshake",
+    "name": "Chocolate Milkshake",
+    "prompt": "A tall glass of thick chocolate milkshake with whipped cream and chocolate drizzle. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "strawberry-milkshake",
+    "name": "Strawberry Milkshake",
+    "prompt": "A tall glass of thick pink strawberry milkshake with whipped cream and a fresh strawberry. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mango-milkshake",
+    "name": "Mango Milkshake",
+    "prompt": "A tall glass of thick yellow mango milkshake with a mango slice. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "fruit-and-nut-milkshake",
+    "name": "Fruit & Nut Milkshake",
+    "prompt": "A tall glass of thick milkshake topped with chopped nuts, raisins and fruit pieces. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mojito-pomegranate",
+    "name": "Mojito (Pomegranate)",
+    "prompt": "A tall glass of sparkling red pomegranate mojito with ice, mint leaves and pomegranate seeds. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mojito-curacao",
+    "name": "Mojito (Curacao)",
+    "prompt": "A tall glass of sparkling bright blue curacao mojito with ice, mint and lime. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mojito-pineapple",
+    "name": "Mojito (Pineapple)",
+    "prompt": "A tall glass of sparkling golden pineapple mojito with ice, mint and a pineapple wedge. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "mojito-lemon-and-mint",
+    "name": "Mojito (Lemon & Mint)",
+    "prompt": "A tall glass of sparkling classic lemon and mint mojito with ice, lime wedges and mint leaves. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "faluda",
+    "name": "Faluda",
+    "prompt": "A tall glass of Sri Lankan faluda: layered pink rose syrup, milk, basil seeds and jelly, topped with a scoop of vanilla ice cream. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "iced-coffee",
+    "name": "Iced Coffee",
+    "prompt": "A tall glass of iced coffee with milk and ice cubes. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "iced-milo",
+    "name": "Iced Milo",
+    "prompt": "A tall glass of iced chocolate malt drink with ice cubes and a cocoa powder dusting. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "pepsi-300-ml",
+    "name": "Pepsi (300 ml)",
+    "prompt": "A chilled 300 ml glass bottle of cola with condensation, next to a glass of cola with ice. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "coca-cola-300-ml",
+    "name": "Coca Cola (300 ml)",
+    "prompt": "A chilled 300 ml contoured glass bottle of cola with condensation, next to a glass of cola with ice. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "sprite-300-ml",
+    "name": "Sprite (300 ml)",
+    "prompt": "A chilled 300 ml green glass bottle of lemon-lime soda with condensation, next to a glass with ice. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "nescafe",
+    "name": "Nescafe",
+    "prompt": "A cup of hot milky instant coffee with light foam. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "nestea",
+    "name": "Nestea",
+    "prompt": "A tall glass of iced lemon tea with ice and a lemon slice. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  },
+  {
+    "id": "water-bottle",
+    "name": "Water Bottle",
+    "prompt": "A chilled plastic bottle of drinking water with condensation. Professional food photography for a fast food restaurant menu. Shot at a 45-degree angle, centred, on a dark charcoal slate surface with a deep dark-brown background, warm moody side lighting, shallow depth of field, rich appetising colours, photorealistic, high detail. No text, no logos, no brand names, no people, no hands."
+  }
+]
